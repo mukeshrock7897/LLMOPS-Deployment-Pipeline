@@ -1,7 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
+# Pipeline ENV and Respective Stages 
 
 <img width="648" height="517" alt="image" src="https://github.com/user-attachments/assets/7f8ce17d-6c46-460e-8f6e-f40eb14efc29" />
 
