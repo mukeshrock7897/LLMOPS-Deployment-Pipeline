@@ -1,0 +1,5 @@
+{
+  "name": "LLMOps Pipeline Visualizer",
+  "description": "A web application that provides a visual representation and simulation of a typical LLMOps (Large Language Model Operations) pipeline, inspired by stacks using Python, FastAPI, and Streamlit.",
+  "requestFramePermissions": []
+}
